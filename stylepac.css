@@ -1,0 +1,19 @@
+form {
+    border: 1px solid rgb(192, 216, 112);
+    padding: 10px 10px;
+}
+
+#listaPacientes {
+    font-size: 20px;
+    color:rgb(226, 171, 43);
+    margin-top: 10px; 
+}
+
+#listaPacientes li button {
+    margin-left: 10px;
+}
+
+span {
+    font-weight: 10px;
+    color: rgb(255, 123, 0);
+}

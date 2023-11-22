@@ -1,0 +1,19 @@
+form {
+    border: 1px solid pink;
+    padding: 10px 10px;
+}
+
+#listaDoctores {
+    font-size: 20px;
+    color:greenyellow;
+    margin-top: 10px; 
+}
+
+#listaDoctores li button {
+    margin-left: 10px;
+}
+
+span {
+    font-weight: 10px;
+    color: rebeccapurple;
+}
